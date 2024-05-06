@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Checkbook:
     """A simple checkbook application for managing a personal account balance."""
 
